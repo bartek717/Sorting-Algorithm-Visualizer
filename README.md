@@ -1,3 +1,7 @@
+This app displays the most popular sorting algorithms in an easy to Visualize fashion
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
