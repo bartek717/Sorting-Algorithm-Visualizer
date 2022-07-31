@@ -1,0 +1,40 @@
+.array-container{
+    position: absolute;
+    left: 75px;
+    right: 75px;
+    top: 50px;
+}
+
+.array-bar{
+    width: 3px;
+    background-color: aqua;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    left: 5px;
+    right: 5px;
+  }
+
+.button:hover{
+    background-color: #5555; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    left: 5px;
+    right: 5px;
+    cursor: pointer;
+}
