@@ -1,4 +1,4 @@
-This app displays the most popular sorting algorithms in an easy to Visualize fashion
+This app displays the most popular sorting algorithms in an easy to visualize UI
 
 
 
